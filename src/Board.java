@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//This class paints and moves objects for the game of Pong
 public class Board extends JPanel implements ActionListener {
     final int WIDTH=800;
     final int HEIGHT=600;
